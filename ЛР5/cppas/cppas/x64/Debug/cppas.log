@@ -1,0 +1,8 @@
+﻿  Assembling assembl.asm...
+assembl.asm(1): error A2008: syntax error : .
+assembl.asm(2): error A2008: syntax error : .
+assembl.asm(15): error A2070: invalid instruction operands
+assembl.asm(75): error A2070: invalid instruction operands
+assembl.asm(77): error A2070: invalid instruction operands
+assembl.asm(96): error A2070: invalid instruction operands
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\assembl.obj" /W3 /errorReport:prompt  /Taassembl.asm" exited with code 1.
